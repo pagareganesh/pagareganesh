@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **pagareganeshg@gmail.com**
 
-- 📄 Know about my experiences [ganeshpagare.netlify.app](ganeshpagare.netlify.app)
+- 📄 Know about my experiences [ganeshpagare]([ganeshpagare.netlify.app](https://ganeshpagare.netlify.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
