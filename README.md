@@ -8,17 +8,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pagareganesh&label=Profile%20views&color=0e75b6&style=flat" alt="pagareganesh" /> </p>
 
-- 🔭 I’m currently working on [Personal Profile](ganeshpagare.netlify.app)
+- 🔭 I’m currently working on [Personal Profile](https://ganeshpagare.netlify.app/)
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS, ReactJS, MongoDB, CI/CD**
 
-- 👨‍💻 All of my projects are available at [ganeshpagare.netlify.app](ganeshpagare.netlify.app)
+- 👨‍💻 All of my projects are available at [ganeshpagare.netlify.app](https://ganeshpagare.netlify.app)
 
 - 💬 Ask me about **NodeJS, ExpressJS, ReactJS, MongoDB, CI/CD**
 
 - 📫 How to reach me **pagareganeshg@gmail.com**
 
-- 📄 Know about my experiences [ganeshpagare]([ganeshpagare.netlify.app](https://ganeshpagare.netlify.app/))
+- 📄 Know about my experiences [ganeshpagare](https://ganeshpagare.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
